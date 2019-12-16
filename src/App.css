@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -19,4 +19,49 @@
 
 .App-link {
   color: #09d3ac;
+} */
+.mt-20 {
+  margin-top: 20px;
+}
+.ml-20 {
+  margin-left: 20px;
+}
+.mb-20 {
+  margin-bottom: 20px;
+}
+.mr-20{
+  margin-right: 20px;
+}
+/* // */
+.mt-5 {
+  margin-top: 5px;
+}
+.ml-5 {
+  margin-left: 5px;
+}
+.mb-5 {
+  margin-bottom: 5px;
+}
+.mr-5{
+  margin-right: 5px;
+}
+/* // */
+.mt-10 {
+  margin-top: 10px;
+}
+.ml-10 {
+  margin-left: 10px;
+}
+.mb-10 {
+  margin-bottom: 10px;
+}
+.mr-10{
+  margin-right: 10px;
+}
+.table-form .table>tbody>tr>th,.table-form .table>tbody>tr>td {
+  border: none !important;
+  line-height: 0 !important;
+}
+.activeMenu {
+  background: rgb(209, 203, 203);
 }
