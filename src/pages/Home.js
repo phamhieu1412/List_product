@@ -7,8 +7,6 @@ class Home extends Component {
     render() {
         return (
             <div>
-                <h1 >HOme</h1>
-
                 <nav className="navbar navbar-default">
                     <div className="container">
                         <div className="row">
